@@ -13,9 +13,8 @@ function App() {
 
   return (
     <>
-     <Card/>
-     <p>Counter : {count}</p>
-     <button onClick={handleClick}>Count Up</button>
+      <h1>Ini mirip siapa ya ?</h1>
+     <img src="https://upload.wikimedia.org/wikipedia/en/f/fe/Glenn_Quagmire.png" alt="Glenn Quagmire" />
     </>
   )
 }
